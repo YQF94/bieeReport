@@ -25,3 +25,7 @@ html, body, #app{
 	border-style: solid;
 	margin: 5px 0px 0 5px;
 }
+.echarts{
+  width: 100% !important;
+	height: 100% !important;
+}

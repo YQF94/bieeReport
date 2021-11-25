@@ -19,6 +19,9 @@ module.exports = {
     'no-trailing-spaces': 'off',
     'eol-last': 'off',
     'comma-spacing': 'off',
-    'comma-dangle': 'off'
+    'comma-dangle': 'off',
+    'quotes': 'off',
+    'no-tabs': 'off',
+    'quote-props': 'off'
   }
 }
